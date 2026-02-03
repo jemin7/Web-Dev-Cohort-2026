@@ -39,9 +39,10 @@ No setup or installation required.
 
 ![alt text](screenshots/image.png)
 ![alt text](screenshots/image2.jpg)
-![alt text](screenshots/finalsreenshot.png)
 ![alt text](screenshots/image3.png)
 ![alt text](screenshots/image4.png)
+![alt text](screenshots/finalsreenshot.png)
+
 ## 👤 Author
 
 **Jemin Desai**
